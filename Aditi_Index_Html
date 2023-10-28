@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    
+        <meta name="viewport" content="with=device-width, intial-scale=1.0">
+        <title>
+            cafe website
+        </title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+        
+</head>
+<body>
+
+<section class="header">
+    <nav>
+        <div class="navheadcol">
+            
+        <a href="index.html"><img src="img/logo1.png"></a>
+        <div >
+            <hr color="#593e27">
+            <hr color="#593e27">
+            <h2>Cup'O Joy</h2>
+            <hr color="#593e27">
+            <hr color="#593e27">   
+        </div></div>
+
+        <div class="navlinks">
+            <ul>
+                <li><a href="about.html"><h4>About Us</h4></a></li>
+                <li><a href="services.html"><h4>Our Servives</h4></a></li>
+                <li><a href="menu.html"><h4>Cafe Menu</h4></a></li>
+                <li><a href="#shop#"><h4>Shop</h4></a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="textbox">
+        <h1>Cup'O Joy</h1>
+        <h3>A REFRESHING START</h3>
+        <p>-----Capturing Happiness in-----<br>---a Cup---
+        </p>
+        <hr color="#3e0c08" width="50%">
+
+    </div>
+    
+</section>
+<section class="add">
+    
+    <h2>SERVING YOU<BR>EVERYDAY</h2>
+    <h3>7am - 10pm </h3>
+    <hr width="10%" color="#3e0c08">
+    
+        <p><i class="fa-solid fa-circle-location-arrow"></i>10th Avenue, BTM Layout Mumbai-65</p>
+        
+</section>
+<!-------footer-->
+<section class="footer">
+    <div class="f">
+    <h3>Cup'O Joy</h3>
+    <p>2022 @Cup'O Joy. All rights are reserved.</p>
+    </div>
+    <div class="flinks">
+        <ul>
+            <li><a href="">Visit the cafe</a></li>
+            <li><a href="">Lets chat</a></li>
+            <li><a href="">Instagram</a></li>
+            <li><a href="">Facebook</a></li>
+
+        </ul>
+
+    </div>
+
+
+</section>
+
+</body></html>
